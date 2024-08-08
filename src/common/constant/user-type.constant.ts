@@ -1,0 +1,6 @@
+export const USER_TYPE = {
+  OPERATOR: "OPERATOR",
+  EMPLOYEE: "EMPLOYEE",
+  STUDENT: "STUDENT",
+  PARENT: "PARENT",
+};
